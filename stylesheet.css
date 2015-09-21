@@ -1,17 +1,96 @@
-
-
-
-.container {
-  background-color: #660033;
+#navigation {
+  background-color: rgba(102, 0, 51, 0.6);
+  font-size: 30px;
 }
 
-h1{
-  font-size: 40px;
-  
-  
+#navbar a {
+	color: white;
+	text-align:center;
+}
+
+.jumbotron h1{
+  font-size: 40px;  
+}
+
+img {
+	width: 100%;
+	position: absolute;
 }
 
 body {
   padding-top: 50px;
   padding-bottom: 20px;
+  background-color: #AF8A9C;
 }
+.kvry {
+	background-color: rgba(223, 209, 216, 0.8);
+	margin-top: 10%;
+	padding: 5%;
+}
+
+.yhdistys2 {
+	position: relative;
+	background-color: rgba(223,209,216,0.8);
+	padding: 5%;
+	margin-right: -11.5%;
+}
+
+.yhdistystoiminta {
+	position: relative;
+	background-color: rgba(223,209,216,0.8);
+	padding: 5%;
+}
+
+.yhdistys {
+	background-color: rgba(223,209,216, 0.8);
+	margin-top: 10%;
+	padding: 5%;
+}
+#hali {	
+	position: relative;
+
+}
+#KVTP {
+	margin-right: -37%;
+	margin-bottom: -200%;
+}
+.sidebar a{
+	color: black;
+}
+.sidebar {
+	background-color: rgba(223, 209, 216, 0.8);
+	margin-top:18%;
+	padding: 5%;
+}
+
+#footbar {
+	margin-top: 10%;
+	color: white;
+	font-size: 12px;
+}
+
+#footbar h2{
+	font-size: 20px;
+}
+
+li a{
+	display: inline;
+	font-size: 15px;
+	text-decoration: none;
+	color: white;
+}
+
+#yhteystiedot h2{
+	font-size: 20px;
+}
+#yhteystiedot p {
+	font-size: 15px;
+}
+
+#paikallistoiminta h2{
+	font-size:25px;
+	color: white;
+}
+
+
+
